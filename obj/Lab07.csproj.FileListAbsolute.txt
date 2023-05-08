@@ -1,0 +1,6 @@
+C:\Users\smoll\RiderProjects\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\smoll\RiderProjects\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\smoll\RiderProjects\Lab07\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\smoll\RiderProjects\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\smoll\RiderProjects\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\smoll\RiderProjects\Lab07\Lab07\obj\Debug\Lab07.pdb
